@@ -1,3 +1,4 @@
+sidebar_position: 4
 From GitHub to Git (Your local)
 Step 1: Create a repo or fork an existing repo
 Create a Repo
