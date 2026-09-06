@@ -29,3 +29,5 @@ Notes:
 - Private/Public Repo: If the message appears, select Public option as you need to use GitHub Pages.
 4. Verify the new repo in GitHub.
  
+ After installation, continue with the [](user-guide.md)
+ After installation, continue with the [](getting-started.md)
